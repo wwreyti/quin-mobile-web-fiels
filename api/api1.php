@@ -5,7 +5,7 @@
 	"launcher_name": "/launcher_space.apk",
 	"isTest": true,
 	"test_api": true,
-        "api": "https://raw.githubusercontent.com/wwreyti/quin-mobile-web-fiels/main/api/main.json?edgar=1829top09",
+        "api": "https://raw.githubusercontent.com/edgardevwork/space-json-php/main/api/main.json?edgar=1829top09",
 	"archives": [
         {
             "type": "/storage/emulated/0/Android/data/ru.quin.mobile/files/texdb",
