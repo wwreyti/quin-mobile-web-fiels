@@ -4,4 +4,4 @@
     // server1 менять на название бд(mysql)
     // root менять на пользователя
     // последнее менять на пароль
-    R::setup( 'mysql:host=80.242.59.112;dbname=gs303073','gs303073', 'lsCo7S5wtg5k' );
+    R::setup( 'mysql:host=94.198.51.12;dbname=gs103936','gs103936', 'amqs1Yqfmz' );
